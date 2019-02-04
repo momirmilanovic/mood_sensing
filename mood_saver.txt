@@ -1,0 +1,6 @@
+curl commant for put:
+
+curl -H "Content-Type: application/json" -X POST -d '{"name" : "xyz"}' http://127.0.01:5000
+
+
+curl -H "Content-Type: application/json" -X PUT -d "zgrada"
